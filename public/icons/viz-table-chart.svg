@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Dashboard/viz-table-chart</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.407843 0 0 0 0 0.745098 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Dashboard/viz-table-chart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g filter="url(#filter-1)" id="table_chart_black_36dp">
+            <g>
+                <polygon id="Path" points="0 0 40 0 40 40 0 40"></polygon>
+                <path d="M16.3799743,16.6731707 L24.5956354,16.6731707 L24.5956354,35.1219512 L16.3799743,35.1219512 L16.3799743,16.6731707 Z M27.8818999,35.1219512 L32.8112965,35.1219512 C34.618742,35.1219512 36.097561,33.6097561 36.097561,31.7615176 L36.097561,16.6395664 L27.8818999,16.6395664 L27.8818999,35.1219512 Z M32.8112965,4.87804878 L8.16431322,4.87804878 C6.35686778,4.87804878 4.87804878,6.3902439 4.87804878,8.23848238 L4.87804878,13.2791328 L36.097561,13.2791328 L36.097561,8.23848238 C36.097561,6.3902439 34.618742,4.87804878 32.8112965,4.87804878 Z M4.87804878,31.7615176 C4.87804878,33.6097561 6.35686778,35.1219512 8.16431322,35.1219512 L13.0937099,35.1219512 L13.0937099,16.6395664 L4.87804878,16.6395664 L4.87804878,31.7615176 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

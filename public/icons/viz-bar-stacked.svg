@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Dashboard/viz-bar-stacked </title>
+    <g id="Dashboard/viz-bar-stacked-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cards/4px-radius">
+            <rect id="shadow" x="0" y="0" width="40" height="40" rx="4"></rect>
+            <rect id="colour" x="0" y="0" width="40" height="40" rx="4"></rect>
+            <rect id="border" x="0" y="0" width="40" height="40" rx="4"></rect>
+        </g>
+        <g id="Group-13" transform="translate(10.000000, 9.000000)">
+            <g id="Group-12">
+                <polygon id="Path" fill="#0082CB" transform="translate(5.000000, 2.464286) rotate(-270.000000) translate(-5.000000, -2.464286) " points="2.53571429 -2.53571429 7.46428571 -2.53571429 7.46428571 7.46428571 2.53571429 7.46428571"></polygon>
+                <polygon id="Path-Copy" fill="#00C6A4" transform="translate(15.000000, 2.464286) rotate(-270.000000) translate(-15.000000, -2.464286) " points="12.5357143 -2.53571429 17.4642857 -2.53571429 17.4642857 7.46428571 12.5357143 7.46428571"></polygon>
+            </g>
+            <g id="Group-11" transform="translate(0.000000, 9.000000)">
+                <polygon id="Path-Copy-2" fill="#00C6A4" transform="translate(17.000000, 2.300000) rotate(-270.000000) translate(-17.000000, -2.300000) " points="14.7 -0.7 19.3 -0.7 19.3 5.3 14.7 5.3"></polygon>
+                <polygon id="Path" fill="#0082CB" transform="translate(7.000000, 2.300000) rotate(-270.000000) translate(-7.000000, -2.300000) " points="9.3 -4.7 9.3 9.3 4.7 9.3 4.7 -4.7"></polygon>
+            </g>
+            <g id="Group-10" transform="translate(0.000000, 18.000000)">
+                <polygon id="Path-Copy-3" fill="#00C6A4" transform="translate(9.300000, 2.300000) rotate(-270.000000) translate(-9.300000, -2.300000) " points="7 -1.7 11.6 -1.7 11.6 6.3 7 6.3"></polygon>
+                <polygon id="Path" fill="#0082CB" transform="translate(3.000000, 2.300000) rotate(-270.000000) translate(-3.000000, -2.300000) " points="0.7 -0.7 5.3 -0.7 5.3 5.3 0.7 5.3"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

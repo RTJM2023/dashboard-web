@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Dashboard/viz-line-chart</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.407843 0 0 0 0 0.745098 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Dashboard/viz-line-chart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g filter="url(#filter-1)" id="show_chart_black_36dp">
+            <g>
+                <polygon id="Path" points="0 0 40 0 40 40 0 40"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="6.475 31 16.375 20.8135593 22.975 27.5932203 37 11.3898305 34.6735 9 22.975 22.5084746 16.375 15.7288136 4 28.4576271"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
